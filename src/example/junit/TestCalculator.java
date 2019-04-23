@@ -1,4 +1,4 @@
-create package junit;
+package junit;
 
 
 
